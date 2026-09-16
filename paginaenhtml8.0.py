@@ -12,8 +12,8 @@ st.set_page_config(
 )
 
 # API Key de DeepSeek y Configuración
-DEEPSEEK_API_KEY = "REMOVED"
-DEEPSEEK_URL = "https://api.deepseek.com/v1/chat/completions"
+DEEPSEEK_API_KEY = ""
+DEEPSEEK_URL = ""
 
 SYSTEM_PROMPT = """
 Eres "InfoVIH", un asistente virtual educativo especializado EXCLUSIVAMENTE en brindar información clara, precisa y actualizada sobre el VIH (Virus de Inmunodeficiencia Humana) y el SIDA.
